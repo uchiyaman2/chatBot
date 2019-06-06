@@ -94,6 +94,7 @@ function sendMessage(token, accountId, message) {
             "content" : {
                 "type" : "text",
                 "text" : message
+                //"text" : "こんにちは"
             }
         }
     };
